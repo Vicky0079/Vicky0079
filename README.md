@@ -3,32 +3,56 @@
 🎓 **BTech CSE (Core) – 1st Year Student**  
 💻 Aspiring Developer | Web Development & Python Enthusiast  
 
-I love learning new technologies and building real-world projects to strengthen my programming skills.
+I enjoy learning new technologies and building practical projects to strengthen my programming skills.
 
 ---
 
 ## 👨‍🎓 About Me  
 - 🎓 BTech CSE (Core) – 1st Year  
 - 💻 Interested in **Web Development** & **Software Development**  
-- 🧠 Learning by building projects and solving problems  
-- 🚀 Motivated to grow as a developer step by step  
+- 🧠 Learning by building academic & self projects  
+- 🚀 Motivated to grow step by step as a developer  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Languages & Technologies  
 
-### 💻 Languages & Technologies  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" />
+  </a>
+</p>
 
-### 🧰 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+## 🧰 Tools & Platforms  
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+</p>
 
 ---
 
@@ -59,21 +83,24 @@ I love learning new technologies and building real-world projects to strengthen 
 
 ## 🌱 Currently Learning  
 - Advanced Python  
-- JavaScript (DOM, ES6+)  
+- JavaScript (DOM & ES6+)  
 - Responsive Web Design  
 - Git & GitHub Collaboration  
 
 ---
 
-## 📊 GitHub Overview  
+## 📊 Activity Overview  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/Vicky0079?label=Followers&style=flat)
-![Stars](https://img.shields.io/github/stars/Vicky0079?label=Stars&style=flat)
+- 📌 Regularly pushing **Python & Web projects**
+- 🧠 Practicing problem-solving through mini projects  
+- 🛠️ Using Git & GitHub for version control  
+- 🎓 Building a strong foundation in **CSE Core subjects**
 
-- 📂 Active repositories with **Python, JavaScript, HTML & CSS**
-- 🧠 Learning through hands-on academic & self projects
-- 🚀 Improving coding and version control skills consistently
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Vicky0079?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/Vicky0079?label=Stars&style=flat" />
+</p>
 
 ---
 
