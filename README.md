@@ -18,14 +18,17 @@ I love learning new technologies and building real-world projects to strengthen 
 ## 🛠️ Technical Skills  
 
 ### 💻 Languages & Technologies  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🧰 Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -64,22 +67,11 @@ I love learning new technologies and building real-world projects to strengthen 
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Vicky0079&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Vicky0079&theme=tokyonight&cache_seconds=1800" 
-    height="160"
-  />
-</p>
+![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicky0079&show_icons=true)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky0079&layout=compact&theme=tokyonight&cache_seconds=1800"
-  />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vicky0079)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky0079&layout=compact)
 
 ---
 
