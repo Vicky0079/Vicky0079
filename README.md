@@ -88,7 +88,7 @@
 - [![Portfolio-webpage](https://img.shields.io/badge/Portfolio--webpage-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/Portfolio-webpage)  
 - [![My_portfolio_with_CSS](https://img.shields.io/badge/My_portfolio_with_CSS-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/My_portfolio_with_CSS)
 
-### 🔹 Linux  s://github.com/Vicky0079/linux_shell_assignment
+### 🔹 Linux 
 - [![linux_shell_assignment](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Vicky0079/linux_shell_assignment-)
 
 ---
