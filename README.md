@@ -20,39 +20,40 @@
 ## 🛠️ Languages & Technologies  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
+  </a>
 </p>
-
-### Skills Progress
-
-**Python**  
-<p><img src="https://progress-bar.dev/90/?title=Python&color=blue&animation=1" /></p>
-
-**JavaScript**  
-<p><img src="https://progress-bar.dev/80/?title=JavaScript&color=yellow&animation=1" /></p>
-
-**HTML**  
-<p><img src="https://progress-bar.dev/85/?title=HTML&color=orange&animation=1" /></p>
-
-**CSS**  
-<p><img src="https://progress-bar.dev/80/?title=CSS&color=purple&animation=1" /></p>
-
-**Bash**  
-<p><img src="https://progress-bar.dev/70/?title=Bash&color=green&animation=1" /></p>
 
 ---
 
 ## 🧰 Tools & Platforms  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
+  </a>
 </p>
 
 ---
@@ -61,27 +62,10 @@
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Capstone-HTML-blue?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <img src="https://media.giphy.com/media/3o7aCVf2s0N4x2iAhs/giphy.gif" width="30" height="30" />
-</p>
-
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/quizQuestions-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30" height="30" />
-</p>
-
-<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/quizQuestions-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/library_inventory_manager-Python-blue?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <img src="https://media.giphy.com/media/3o7aCVf2s0N4x2iAhs/giphy.gif" width="30" height="30" />
-</p>
-
-<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Gradebook_analyzer-Python-blue?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30" height="30" />
-</p>
-
-<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Daily_calorie_tracker-Python-blue?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <img src="https://media.giphy.com/media/3o7aCVf2s0N4x2iAhs/giphy.gif" width="30" height="30" />
 </p>
 
 ---
@@ -94,6 +78,16 @@
   <img src="https://img.shields.io/badge/Responsive%20Web%20Design-61DAFB?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+## 📊 Activity Overview  
+
+- 📌 Regularly pushing **Python & Web projects**  
+- 🧠 Practicing problem-solving through **mini projects & exercises**  
+- 🛠️ Using **Git & GitHub** for version control  
+- 🎓 Building a strong foundation in **CSE Core subjects**  
+- 📈 Consistently updating repositories & portfolio  
 
 ---
 
