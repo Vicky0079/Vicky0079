@@ -79,17 +79,25 @@
 - [![My_portfolio_with_CSS](https://img.shields.io/badge/My_portfolio_with_CSS-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/My_portfolio_with_CSS)
 
 ### 🔹 Linux  
-- [![linux_shell_assignment](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Vicky0079/linux_shell_assignment-)
+- [![linux_shell_assignment](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Vicky0079/linux_shell_assignment)
 
 ---
 
 ## 🌱 Currently Learning  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Advanced%20Python-FFDD00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-61DAFB?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Advanced%20Python-FFDD00?style=for-the-badge&logo=python&logoColor=white" alt="Advanced Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript ES6+" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/Responsive%20Web%20Design-61DAFB?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Web Design" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub" />
+  </a>
 </p>
 
 ---
