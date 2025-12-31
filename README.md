@@ -60,13 +60,26 @@
 
 ## 📂 Projects  
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Capstone-HTML-blue?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/quizQuestions-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/library_inventory_manager-Python-blue?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gradebook_analyzer-Python-blue?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Daily_calorie_tracker-Python-blue?style=for-the-badge&logo=python&logoColor=white" /></a>
-</p>
+### 🔹 Capstone Project  
+- ![Capstone Project](https://img.shields.io/badge/Capstone-HTML-blue?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🔹 JavaScript  
+- ![quizQuestions](https://img.shields.io/badge/quizQuestions-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔹 Python  
+- ![library_inventory_manager](https://img.shields.io/badge/library_inventory_manager-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
+- ![Gradebook_analyzer](https://img.shields.io/badge/Gradebook_analyzer-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
+- ![Daily_calorie_tracker](https://img.shields.io/badge/Daily_calorie_tracker-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔹 Web & Portfolio  
+- ![Portfolio](https://img.shields.io/badge/Portfolio-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)  
+- ![My-Portfolio](https://img.shields.io/badge/My--Portfolio-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)  
+- ![Portfolio_Webpage](https://img.shields.io/badge/Portfolio_Webpage-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  
+- ![Portfolio-webpage](https://img.shields.io/badge/Portfolio--webpage-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  
+- ![My_portfolio_with_CSS](https://img.shields.io/badge/My_portfolio_with_CSS-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔹 Linux  
+- ![linux_shell_assignment](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -91,7 +104,7 @@
 
 ---
 
-## 📊 GitHub Stats (Working)
+## 📊 GitHub Stats  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/Vicky0079?label=Followers&style=social)
