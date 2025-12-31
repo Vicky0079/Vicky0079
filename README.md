@@ -65,12 +65,20 @@ I love learning new technologies and building real-world projects to strengthen 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicky0079&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicky0079&theme=tokyonight" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Vicky0079&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Vicky0079&theme=tokyonight&cache_seconds=1800" 
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky0079&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky0079&layout=compact&theme=tokyonight&cache_seconds=1800"
+  />
 </p>
 
 ---
