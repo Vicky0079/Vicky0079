@@ -1,148 +1,152 @@
-# Hi 👋, I'm Vicky  
-
-🎓 **BTech CSE (Core) – 1st Year Student**  
-💻 Aspiring Developer | Web Development & Python Enthusiast  
+<p align="center">
+  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f7ff"/>
+        <stop offset="50%" stop-color="#0e75b6"/>
+        <stop offset="100%" stop-color="#00f7ff"/>
+      </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="4" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+      font-size="64" font-family="Fira Code, monospace"
+      fill="none" stroke="url(#grad)" stroke-width="2"
+      filter="url(#glow)"
+      stroke-dasharray="1000" stroke-dashoffset="1000">
+      VICKY
+      <animate attributeName="stroke-dashoffset"
+        from="1000" to="0" dur="2.5s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Learning+New+Technologies...;Building+Projects...;Growing+as+a+Developer..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=BTech+CSE+Student;Web+Developer+in+Making;Python+Enthusiast;Learning+by+Building" />
 </p>
 
 ---
 
 ## 👨‍🎓 About Me  
-- 🎓 BTech CSE (Core) – 1st Year  
-- 💻 Interested in **Web Development** & **Software Development**  
-- 🧠 Learning by building **academic & personal projects**  
-- 🚀 Motivated to grow step by step as a developer  
+- 🎓 **BTech CSE (Core) – 1st Year**
+- 💻 Aspiring **Web & Software Developer**
+- 🧠 Learning through **real projects**
+- 🚀 Growing step-by-step into a strong developer
 
 ---
 
-## 🛠️ Languages & Technologies  
+## ⚡ Languages & Technologies (Animated Loop)
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/python.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/javascript.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/html.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/css.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/bash.svg" width="60"/>
 </p>
 
-### 📈 My Skill Levels  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-90%25-FFDD00?style=for-the-badge&logo=python&logoColor=white" alt="Python Skill"/>
-  <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill"/>
-  <img src="https://img.shields.io/badge/HTML-85%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Skill"/>
-  <img src="https://img.shields.io/badge/CSS-80%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Skill"/>
-  <img src="https://img.shields.io/badge/Shell-60%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Skill"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash&theme=dark" />
 </p>
 
 ---
 
-## 🧰 Tools & Platforms  
+## 📈 Skills Overview
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky0079&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicky0079&theme=tokyonight" />
 </p>
 
 ---
 
-## 📂 Projects  
+## 🧰 Tools & Platforms
 
-### 🔹 Capstone Project  
-- [![Capstone Project](https://img.shields.io/badge/Capstone-HTML-blue?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Vicky0079/Capstone-Project)
-
-### 🔹 JavaScript  
-- [![quizQuestions](https://img.shields.io/badge/quizQuestions-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Vicky0079/quizQuestions)
-
-### 🔹 Python  
-- [![library_inventory_manager](https://img.shields.io/badge/library_inventory_manager-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Vicky0079/library_inventory_manager)  
-- [![Gradebook_analyzer](https://img.shields.io/badge/Gradebook_analyzer-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Vicky0079/Gradebook_analyzer)  
-- [![Daily_calorie_tracker](https://img.shields.io/badge/Daily_calorie_tracker-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Vicky0079/Daily_calorie_tracker)
-
-### 🔹 Web & Portfolio  
-- [![Portfolio](https://img.shields.io/badge/Portfolio-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Vicky0079/Portfolio)  
-- [![My-Portfolio](https://img.shields.io/badge/My--Portfolio-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Vicky0079/My-Portfolio)  
-- [![Portfolio_Webpage](https://img.shields.io/badge/Portfolio_Webpage-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/Portfolio_Webpage)  
-- [![Portfolio-webpage](https://img.shields.io/badge/Portfolio--webpage-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/Portfolio-webpage)  
-- [![My_portfolio_with_CSS](https://img.shields.io/badge/My_portfolio_with_CSS-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/My_portfolio_with_CSS)
-
-### 🔹 Linux 
-- [![linux_shell_assignment](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Vicky0079/linux_shell_assignment-)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
 
 ---
 
-## 🌱 Currently Learning  
+## 🚀 Projects
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Advanced%20Python-FFDD00?style=for-the-badge&logo=python&logoColor=white" alt="Advanced Python" />
+### 🔹 Capstone
+[![Capstone](https://github-readme-stats.vercel.app/api/pin/?username=Vicky0079&repo=Capstone-Project&theme=tokyonight)](https://github.com/Vicky0079/Capstone-Project)
+
+### 🔹 JavaScript
+[![Quiz](https://github-readme-stats.vercel.app/api/pin/?username=Vicky0079&repo=quizQuestions&theme=tokyonight)](https://github.com/Vicky0079/quizQuestions)
+
+### 🔹 Python
+[![Library](https://github-readme-stats.vercel.app/api/pin/?username=Vicky0079&repo=library_inventory_manager&theme=tokyonight)](https://github.com/Vicky0079/library_inventory_manager)
+[![Gradebook](https://github-readme-stats.vercel.app/api/pin/?username=Vicky0079&repo=Gradebook_analyzer&theme=tokyonight)](https://github.com/Vicky0079/Gradebook_analyzer)
+[![Calories](https://github-readme-stats.vercel.app/api/pin/?username=Vicky0079&repo=Daily_calorie_tracker&theme=tokyonight)](https://github.com/Vicky0079/Daily_calorie_tracker)
+
+---
+
+## 📊 GitHub Stats (Clickable)
+
+<p align="center">
+  <a href="https://github.com/Vicky0079">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vicky0079&show_icons=true&theme=tokyonight" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript ES6+" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vicky0079">
+    <img src="https://komarev.com/ghpvc/?username=Vicky0079&style=for-the-badge&color=0e75b6" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/Responsive%20Web%20Design-61DAFB?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Web Design" />
+  <a href="https://github.com/Vicky0079?tab=followers">
+    <img src="https://img.shields.io/github/followers/Vicky0079?style=for-the-badge" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub" />
+  <a href="https://github.com/Vicky0079?tab=stars">
+    <img src="https://img.shields.io/github/stars/Vicky0079?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 📊 Activity Overview  
+## 📫 Connect With Me (ULTRA PRO)
 
-- 📌 Regularly pushing **Python & Web projects**  
-- 🧠 Practicing problem-solving through **mini projects & exercises**  
-- 🛠️ Using **Git & GitHub** for version control  
-- 🎓 Building a strong foundation in **CSE Core subjects**  
-- 📈 Consistently updating repositories & portfolio  
+<p align="center">
+  <a href="mailto:vickylucky00079@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me_NOW-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="mailto:vickysainilucky007@gmail.com">
+    <img src="https://img.shields.io/badge/Backup_Email-Important-orange?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## 📊 GitHub Stats  
+<p align="center">
+  <a href="https://github.com/Vicky0079">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Vicky0079)  
-[![Followers](https://img.shields.io/github/followers/Vicky0079?label=Followers&style=social)](https://github.com/Vicky0079?tab=followers)  
-[![Stars](https://img.shields.io/github/stars/Vicky0079?label=Stars&style=social)](https://github.com/Vicky0079?tab=stars)
-
----
-
-## 📫 Connect With Me  
-
-<p align="left">
-  <a href="mailto:vickylucky00079@gmail.com"><img src="https://img.shields.io/badge/Email-vickylucky00079@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:vickysainilucky007@gmail.com"><img src="https://img.shields.io/badge/Email-vickysainilucky007@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Vicky0079"><img src="https://img.shields.io/badge/GitHub-Vicky0079-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=650&lines=Open+to+Internships;Open+to+Collaboration;Let's+Build+Together!" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVf2s0N4x2iAhs/giphy.gif" width="250" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-⭐ Thanks for visiting my GitHub profile!  
-Feel free to explore my repositories and connect with me 😊
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCVf2s0N4x2iAhs/giphy.gif" width="260"/>
+</p>
+
+<h3 align="center">⭐ Thanks for visiting — This is just the beginning!</h3>
