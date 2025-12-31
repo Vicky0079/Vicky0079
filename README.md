@@ -93,26 +93,12 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <a href="https://github.com/Vicky0079">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vicky0079&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=radical" />
-  </a>
-  <a href="https://github.com/Vicky0079">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky0079&hide_border=false&layout=compact&langs_count=8&theme=radical" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vicky0079&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky0079&layout=compact&theme=radical)
 
-<p align="center">
-  <a href="https://github.com/Vicky0079">
-    <img src="https://img.shields.io/github/followers/Vicky0079?label=Followers&style=social" />
-  </a>
-  <a href="https://github.com/Vicky0079?tab=stars">
-    <img src="https://img.shields.io/github/stars/Vicky0079?label=Stars&style=social" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=Vicky0079">
-    <img src="https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+![Followers](https://img.shields.io/github/followers/Vicky0079?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Vicky0079?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
