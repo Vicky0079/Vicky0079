@@ -94,8 +94,24 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicky0079&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky0079&layout=compact&theme=radical" />
+  <a href="https://github.com/Vicky0079">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vicky0079&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=radical" />
+  </a>
+  <a href="https://github.com/Vicky0079">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky0079&hide_border=false&layout=compact&langs_count=8&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vicky0079">
+    <img src="https://img.shields.io/github/followers/Vicky0079?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/Vicky0079?tab=stars">
+    <img src="https://img.shields.io/github/stars/Vicky0079?label=Stars&style=social" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=Vicky0079">
+    <img src="https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
