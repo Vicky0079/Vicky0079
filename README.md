@@ -93,10 +93,9 @@
 
 ## 📊 GitHub Stats (Working)
 
-![GitHub Followers](https://img.shields.io/github/followers/Vicky0079?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Vicky0079?style=social)
-![Public Repos](https://img.shields.io/github/repo-count/Vicky0079?style=for-the-badge)
-![Top Language](https://img.shields.io/github/languages/top/Vicky0079?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Vicky0079?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Vicky0079?label=Stars&style=social)
 
 ---
 
