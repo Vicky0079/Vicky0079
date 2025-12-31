@@ -61,25 +61,25 @@
 ## 📂 Projects  
 
 ### 🔹 Capstone Project  
-- ![Capstone Project](https://img.shields.io/badge/Capstone-HTML-blue?style=for-the-badge&logo=html5&logoColor=white)
+- [![Capstone Project](https://img.shields.io/badge/Capstone-HTML-blue?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Vicky0079/Capstone-Project)
 
 ### 🔹 JavaScript  
-- ![quizQuestions](https://img.shields.io/badge/quizQuestions-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+- [![quizQuestions](https://img.shields.io/badge/quizQuestions-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Vicky0079/quizQuestions)
 
 ### 🔹 Python  
-- ![library_inventory_manager](https://img.shields.io/badge/library_inventory_manager-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
-- ![Gradebook_analyzer](https://img.shields.io/badge/Gradebook_analyzer-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
-- ![Daily_calorie_tracker](https://img.shields.io/badge/Daily_calorie_tracker-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+- [![library_inventory_manager](https://img.shields.io/badge/library_inventory_manager-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Vicky0079/library_inventory_manager)  
+- [![Gradebook_analyzer](https://img.shields.io/badge/Gradebook_analyzer-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Vicky0079/Gradebook_analyzer)  
+- [![Daily_calorie_tracker](https://img.shields.io/badge/Daily_calorie_tracker-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Vicky0079/Daily_calorie_tracker)
 
 ### 🔹 Web & Portfolio  
-- ![Portfolio](https://img.shields.io/badge/Portfolio-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)  
-- ![My-Portfolio](https://img.shields.io/badge/My--Portfolio-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)  
-- ![Portfolio_Webpage](https://img.shields.io/badge/Portfolio_Webpage-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  
-- ![Portfolio-webpage](https://img.shields.io/badge/Portfolio--webpage-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  
-- ![My_portfolio_with_CSS](https://img.shields.io/badge/My_portfolio_with_CSS-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Vicky0079/Portfolio)  
+- [![My-Portfolio](https://img.shields.io/badge/My--Portfolio-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Vicky0079/My-Portfolio)  
+- [![Portfolio_Webpage](https://img.shields.io/badge/Portfolio_Webpage-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/Portfolio_Webpage)  
+- [![Portfolio-webpage](https://img.shields.io/badge/Portfolio--webpage-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/Portfolio-webpage)  
+- [![My_portfolio_with_CSS](https://img.shields.io/badge/My_portfolio_with_CSS-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/My_portfolio_with_CSS)
 
 ### 🔹 Linux  
-- ![linux_shell_assignment](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- [![linux_shell_assignment](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Vicky0079/linux_shell_assignment)
 
 ---
 
