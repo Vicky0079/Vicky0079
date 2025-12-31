@@ -4,123 +4,145 @@
 💻 Aspiring Developer | Web Development & Python Enthusiast  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Web+Developer+⚡;Python+Programmer+🐍;Open+Source+Learner+🚀;Future+Software+Engineer+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Learning+New+Technologies...;Building+Projects...;Growing+as+a+Developer..." />
 </p>
 
 ---
 
 ## 👨‍🎓 About Me  
 - 🎓 BTech CSE (Core) – 1st Year  
-- 💻 Passionate about **Web & Software Development**  
-- 🧠 Learn by building **real-world projects**  
-- 🚀 Growing consistently as a developer  
+- 💻 Interested in **Web Development** & **Software Development**  
+- 🧠 Learning by building **academic & personal projects**  
+- 🚀 Motivated to grow step by step as a developer  
 
 ---
 
-## 🛠️ Languages & Technologies ⚡ (NEON MODE)
+## 🛠️ Languages & Technologies  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="65"/>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+⚡;JavaScript+⚡;HTML+CSS+⚡;Shell+Scripting+⚡" />
+### 📈 My Skill Levels  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-90%25-FFDD00?style=for-the-badge&logo=python&logoColor=white" alt="Python Skill"/>
+  <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill"/>
+  <img src="https://img.shields.io/badge/HTML-85%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Skill"/>
+  <img src="https://img.shields.io/badge/CSS-80%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Skill"/>
+  <img src="https://img.shields.io/badge/Shell-60%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Skill"/>
 </p>
-
-### 📊 Skill Power Levels  
-
-![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-85%25-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3)
-![Shell](https://img.shields.io/badge/Shell-60%25-success?style=for-the-badge&logo=gnu-bash)
 
 ---
 
 ## 🧰 Tools & Platforms  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects (Animated Cards)
+## 📂 Projects  
 
-<table>
-<tr>
-<td width="50%">
+### 🔹 Capstone Project  
+- [![Capstone Project](https://img.shields.io/badge/Capstone-HTML-blue?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Vicky0079/Capstone-Project)
 
-### 🔵 Capstone Project  
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+### 🔹 JavaScript  
+- [![quizQuestions](https://img.shields.io/badge/quizQuestions-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Vicky0079/quizQuestions)
 
-**Tech:** HTML  
-[🔗 View Repo](https://github.com/Vicky0079/Capstone-Project)
+### 🔹 Python  
+- [![library_inventory_manager](https://img.shields.io/badge/library_inventory_manager-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Vicky0079/library_inventory_manager)  
+- [![Gradebook_analyzer](https://img.shields.io/badge/Gradebook_analyzer-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Vicky0079/Gradebook_analyzer)  
+- [![Daily_calorie_tracker](https://img.shields.io/badge/Daily_calorie_tracker-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Vicky0079/Daily_calorie_tracker)
 
-</td>
-<td width="50%">
+### 🔹 Web & Portfolio  
+- [![Portfolio](https://img.shields.io/badge/Portfolio-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Vicky0079/Portfolio)  
+- [![My-Portfolio](https://img.shields.io/badge/My--Portfolio-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Vicky0079/My-Portfolio)  
+- [![Portfolio_Webpage](https://img.shields.io/badge/Portfolio_Webpage-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/Portfolio_Webpage)  
+- [![Portfolio-webpage](https://img.shields.io/badge/Portfolio--webpage-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/Portfolio-webpage)  
+- [![My_portfolio_with_CSS](https://img.shields.io/badge/My_portfolio_with_CSS-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/My_portfolio_with_CSS)
 
-### 🟡 Quiz Application  
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%"/>
-
-**Tech:** JavaScript  
-[🔗 View Repo](https://github.com/Vicky0079/quizQuestions)
-
-</td>
-</tr>
-</table>
+### 🔹 Linux 
+- [![linux_shell_assignment](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Vicky0079/linux_shell_assignment-)
 
 ---
 
-## 🧩 More Projects  
+## 🌱 Currently Learning  
 
-### 🐍 Python  
-[![Library](https://img.shields.io/badge/library_inventory_manager-Python-blue?style=for-the-badge&logo=python)](https://github.com/Vicky0079/library_inventory_manager)
-[![Gradebook](https://img.shields.io/badge/Gradebook_analyzer-Python-blue?style=for-the-badge&logo=python)](https://github.com/Vicky0079/Gradebook_analyzer)
-[![Calories](https://img.shields.io/badge/Daily_calorie_tracker-Python-blue?style=for-the-badge&logo=python)](https://github.com/Vicky0079/Daily_calorie_tracker)
-
-### 🌐 Web & Portfolio  
-[![Portfolio](https://img.shields.io/badge/Portfolio-HTML-orange?style=for-the-badge&logo=html5)](https://github.com/Vicky0079/Portfolio)
-[![My Portfolio](https://img.shields.io/badge/My_Portfolio-HTML-orange?style=for-the-badge&logo=html5)](https://github.com/Vicky0079/My-Portfolio)
-[![CSS Portfolio](https://img.shields.io/badge/Portfolio_Webpage-CSS-blue?style=for-the-badge&logo=css3)](https://github.com/Vicky0079/Portfolio_Webpage)
-[![CSS Portfolio 2](https://img.shields.io/badge/Portfolio--webpage-CSS-blue?style=for-the-badge&logo=css3)](https://github.com/Vicky0079/Portfolio-webpage)
-[![CSS Portfolio 3](https://img.shields.io/badge/My_portfolio_with_CSS-CSS-blue?style=for-the-badge&logo=css3)](https://github.com/Vicky0079/My_portfolio_with_CSS)
-
-### 🐧 Linux  
-[![Linux](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash)](https://github.com/Vicky0079/linux_shell_assignment)
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Advanced%20Python-FFDD00?style=for-the-badge&logo=python&logoColor=white" alt="Advanced Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript ES6+" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/Responsive%20Web%20Design-61DAFB?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Web Design" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🐍 Contribution Snake (TOP 1%)
+## 📊 Activity Overview  
 
-![Snake animation](https://github.com/Vicky0079/Vicky0079/blob/output/github-contribution-grid-snake.svg)
+- 📌 Regularly pushing **Python & Web projects**  
+- 🧠 Practicing problem-solving through **mini projects & exercises**  
+- 🛠️ Using **Git & GitHub** for version control  
+- 🎓 Building a strong foundation in **CSE Core subjects**  
+- 📈 Consistently updating repositories & portfolio  
 
 ---
 
 ## 📊 GitHub Stats  
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Vicky0079)
-[![Followers](https://img.shields.io/github/followers/Vicky0079?label=Followers&style=social)](https://github.com/Vicky0079?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Vicky0079)  
+[![Followers](https://img.shields.io/github/followers/Vicky0079?label=Followers&style=social)](https://github.com/Vicky0079?tab=followers)  
 [![Stars](https://img.shields.io/github/stars/Vicky0079?label=Stars&style=social)](https://github.com/Vicky0079?tab=stars)
 
 ---
 
 ## 📫 Connect With Me  
 
-- 📧 **Email:**  
-  - vickylucky00079@gmail.com  
-  - vickysainilucky007@gmail.com  
-- 🌐 **GitHub:** [https://github.com/Vicky0079](https://github.com/Vicky0079)
+<p align="left">
+  <a href="mailto:vickylucky00079@gmail.com"><img src="https://img.shields.io/badge/Email-vickylucky00079@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:vickysainilucky007@gmail.com"><img src="https://img.shields.io/badge/Email-vickysainilucky007@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Vicky0079"><img src="https://img.shields.io/badge/GitHub-Vicky0079-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/3o7aCVf2s0N4x2iAhs/giphy.gif" width="250" />
 </p>
 
 ⭐ Thanks for visiting my GitHub profile!  
-**Welcome to the Final Boss Level 🚀👑**
+Feel free to explore my repositories and connect with me 😊
