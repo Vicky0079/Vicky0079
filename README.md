@@ -37,6 +37,16 @@
   </a>
 </p>
 
+### 📈 My Skill Levels  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-90%25-FFDD00?style=for-the-badge&logo=python&logoColor=white" alt="Python Skill"/>
+  <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill"/>
+  <img src="https://img.shields.io/badge/HTML-85%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Skill"/>
+  <img src="https://img.shields.io/badge/CSS-80%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Skill"/>
+  <img src="https://img.shields.io/badge/Shell-60%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Skill"/>
+</p>
+
 ---
 
 ## 🧰 Tools & Platforms  
