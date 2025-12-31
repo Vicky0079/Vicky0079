@@ -91,15 +91,12 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (Working)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vicky0079&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky0079&layout=compact&theme=radical)
-
-![Followers](https://img.shields.io/github/followers/Vicky0079?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/Vicky0079?label=Stars&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Vicky0079?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Vicky0079?style=social)
+![Public Repos](https://img.shields.io/github/repo-count/Vicky0079?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/Vicky0079?style=for-the-badge)
 
 ---
 
