@@ -89,7 +89,7 @@
 - [![My_portfolio_with_CSS](https://img.shields.io/badge/My_portfolio_with_CSS-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vicky0079/My_portfolio_with_CSS)
 
 ### 🔹 Linux  
-- [![linux_shell_assignment](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Vicky0079/linux_shell_assignment-)
+- [![linux_shell_assignment](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Vicky0079/linux_shell_assignment)
 
 ---
 
@@ -124,9 +124,9 @@
 
 ## 📊 GitHub Stats  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/Vicky0079?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/Vicky0079?label=Stars&style=social)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Vicky0079)  
+[![Followers](https://img.shields.io/github/followers/Vicky0079?label=Followers&style=social)](https://github.com/Vicky0079?tab=followers)  
+[![Stars](https://img.shields.io/github/stars/Vicky0079?label=Stars&style=social)](https://github.com/Vicky0079?tab=stars)
 
 ---
 
