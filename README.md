@@ -4,7 +4,7 @@
 💻 Aspiring Developer | Web Development & Python Enthusiast  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Learning+New+Technologies;Building+Real+Projects;Growing+Step+by+Step+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Web+Developer+⚡;Python+Programmer+🐍;Building+Projects+🚀;Learning+Every+Day+🔥" />
 </p>
 
 ---
@@ -12,83 +12,96 @@
 ## 👨‍🎓 About Me  
 - 🎓 BTech CSE (Core) – 1st Year  
 - 💻 Interested in **Web Development** & **Software Development**  
-- 🧠 Learning by building academic & self projects  
-- 🚀 Motivated to grow step by step as a developer  
+- 🧠 Learning by building **real-world projects**  
+- 🚀 Growing step by step as a developer  
 
 ---
 
-## 🛠️ Languages & Technologies  
+## 🛠️ Languages & Technologies ⚡  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60"/>
 </p>
 
 <p align="center">
-  <b>Python</b> • <b>JavaScript</b> • <b>HTML</b> • <b>CSS</b> • <b>Shell</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=700&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+⚡;JavaScript+⚡;HTML+CSS+⚡;Shell+Scripting+⚡" />
 </p>
 
-### 📈 Skill Levels  
+### 📊 Skill Power  
 
-![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-85%25-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-60%25-success?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-85%25-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3)
+![Shell](https://img.shields.io/badge/Shell-60%25-success?style=for-the-badge&logo=gnu-bash)
 
 ---
 
 ## 🧰 Tools & Platforms  
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📂 Projects  
+## 🚀 Animated Project Cards  
 
-### 🔹 Capstone Project  
-[![Capstone](https://img.shields.io/badge/Capstone_Project-HTML-orange?style=for-the-badge&logo=html5)](https://github.com/Vicky0079/Capstone-Project)
+<table>
+<tr>
+<td width="50%">
 
-### 🔹 JavaScript  
-[![Quiz](https://img.shields.io/badge/quizQuestions-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://github.com/Vicky0079/quizQuestions)
+### 🔵 Capstone Project  
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
 
-### 🔹 Python  
+**Tech:** HTML  
+[🔗 View Repository](https://github.com/Vicky0079/Capstone-Project)
+
+</td>
+<td width="50%">
+
+### 🟡 Quiz Application  
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%"/>
+
+**Tech:** JavaScript  
+[🔗 View Repository](https://github.com/Vicky0079/quizQuestions)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 More Projects  
+
+### 🐍 Python  
 [![Library](https://img.shields.io/badge/library_inventory_manager-Python-blue?style=for-the-badge&logo=python)](https://github.com/Vicky0079/library_inventory_manager)
 [![Gradebook](https://img.shields.io/badge/Gradebook_analyzer-Python-blue?style=for-the-badge&logo=python)](https://github.com/Vicky0079/Gradebook_analyzer)
 [![Calories](https://img.shields.io/badge/Daily_calorie_tracker-Python-blue?style=for-the-badge&logo=python)](https://github.com/Vicky0079/Daily_calorie_tracker)
 
-### 🔹 Web & Portfolio  
+### 🌐 Web & Portfolio  
 [![Portfolio](https://img.shields.io/badge/Portfolio-HTML-orange?style=for-the-badge&logo=html5)](https://github.com/Vicky0079/Portfolio)
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-HTML-orange?style=for-the-badge&logo=html5)](https://github.com/Vicky0079/My-Portfolio)
 [![CSS Portfolio](https://img.shields.io/badge/Portfolio_Webpage-CSS-blue?style=for-the-badge&logo=css3)](https://github.com/Vicky0079/Portfolio_Webpage)
 [![CSS Portfolio 2](https://img.shields.io/badge/Portfolio--webpage-CSS-blue?style=for-the-badge&logo=css3)](https://github.com/Vicky0079/Portfolio-webpage)
 [![CSS Portfolio 3](https://img.shields.io/badge/My_portfolio_with_CSS-CSS-blue?style=for-the-badge&logo=css3)](https://github.com/Vicky0079/My_portfolio_with_CSS)
 
-### 🔹 Linux  
+### 🐧 Linux  
 [![Linux](https://img.shields.io/badge/linux_shell_assignment-Shell-success?style=for-the-badge&logo=gnu-bash)](https://github.com/Vicky0079/linux_shell_assignment)
 
 ---
 
 ## 🌱 Currently Learning  
 
-<p align="left">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Advanced_Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">
-    <img src="https://img.shields.io/badge/Responsive_Web_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced_Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Responsive_Web_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -111,8 +124,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVf2s0N4x2iAhs/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
 </p>
 
 ⭐ Thanks for visiting my GitHub profile!  
-Feel free to explore my repositories and connect with me 😊
+Let’s build something awesome together 🚀
