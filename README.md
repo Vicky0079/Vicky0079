@@ -65,13 +65,15 @@ I love learning new technologies and building real-world projects to strengthen 
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Overview  
 
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicky0079&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Vicky0079?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/Vicky0079?label=Stars&style=flat)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vicky0079)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky0079&layout=compact)
+- 📂 Active repositories with **Python, JavaScript, HTML & CSS**
+- 🧠 Learning through hands-on academic & self projects
+- 🚀 Improving coding and version control skills consistently
 
 ---
 
