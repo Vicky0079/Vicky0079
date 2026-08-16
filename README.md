@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vicky  
 
-🎓 **BTech CSE (Core) – 1st Year Student**  
+🎓 **BTech CSE (Core) – 2nd Year Student**  
 💻 Aspiring Developer | Web Development & Python Enthusiast  
 
 <p align="center">
