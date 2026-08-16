@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍🎓 About Me  
-- 🎓 BTech CSE (Core) – 1st Year  
+- 🎓 BTech CSE (Core) – 2nd Year  
 - 💻 Interested in **Web Development** & **Software Development**  
 - 🧠 Learning by building **academic & personal projects**  
 - 🚀 Motivated to grow step by step as a developer  
