@@ -58,14 +58,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Using a stable community mirror for the stats card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vicky0079&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vicky's GitHub Stats" height="165" />
+  <!-- Using the actively maintained successor (github-stats-extended) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=Vicky0079&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vicky's GitHub Stats" height="165" />
   <!-- Using the updated Demolab domain for streak stats -->
   <img src="https://streak-stats.demolab.com/?user=Vicky0079&theme=radical&hide_border=true" alt="Vicky's GitHub Streak" height="165" />
 </div>
 <div align="center">
-  <!-- Using a stable community mirror for the top languages card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vicky0079&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vicky0079&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
