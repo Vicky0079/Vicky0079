@@ -61,8 +61,8 @@
 ### 📊 GitHub Analytics & Trophies
 
 <div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Vicky0079&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+  <!-- Using a working volunteer mirror for the Trophies -->
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Vicky0079&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
 </div>
 <br>
 <div align="center">
