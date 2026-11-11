@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vicky  
 
 🎓 **BTech CSE (Core) – 2nd Year Student**  
-💻 Aspiring Developer | Web Development & Python Enthusiast  
+💻 Aspiring Developer | Python, Java & Web Development Enthusiast  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Learning+New+Technologies...;Building+Projects...;Growing+as+a+Developer..." />
@@ -11,7 +11,7 @@
 
 ## 👨‍🎓 About Me  
 - 🎓 BTech CSE (Core) – 2nd Year  
-- 💻 Interested in **Web Development** & **Software Development**  
+- 💻 Interested in **Software Development** with a focus on **Python**, **Java**, and **Web Development**  
 - 🧠 Learning by building **academic & personal projects**  
 - 🚀 Motivated to grow step by step as a developer  
 
