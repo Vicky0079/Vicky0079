@@ -76,6 +76,21 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
   </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client" target="_blank">
+    <img src="https://img.shields.io/badge/Thunder%20Client-6C4CF1?style=for-the-badge" alt="Thunder Client"/>
+  </a>
 </p>
 
 ---
@@ -141,6 +156,7 @@
 <p align="left">
   <a href="mailto:vickylucky00079@gmail.com"><img src="https://img.shields.io/badge/Email-vickylucky00079@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Vicky0079"><img src="https://img.shields.io/badge/GitHub-Vicky0079-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
