@@ -1,5 +1,8 @@
+<!-- Beautiful Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Vicky+%F0%9F%91%8B;BTech+CSE+Student;Python+%7C+Java+%7C+Web+Developer;Building+Projects+Daily..." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20there!%20I'm%20Vicky%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=BTech+CSE+Student;Python+%7C+Java+%7C+Web+Developer;Building+Projects+Daily..." alt="Typing SVG" />
   
   <p>
     <b>2nd-Year BTech CSE Student</b> passionate about Software Development, Python, Java, and Web Technologies. <br>
@@ -34,12 +37,12 @@
 
 | 🏆 Project | 📝 Description | 🛠️ Tech Stack |
 | :--- | :--- | :--- |
-| **[Library Inventory Manager](https://github.com/Vicky0079/library_inventory_manager)** | A Python-based system to manage book inventories, issue/return logs, and track availability. | `Python` `CLI` |
-| **[Gradebook Analyzer](https://github.com/Vicky0079/Gradebook_analyzer)** | A data processing tool that calculates class averages, highest scores, and generates grade reports. | `Python` `Data Structures` |
-| **[Quiz Questions App](https://github.com/Vicky0079/quizQuestions)** | An interactive JavaScript quiz application featuring score tracking and dynamic DOM manipulation. | `JavaScript` `HTML/CSS` |
-| **[Capstone Project](https://github.com/Vicky0079/Capstone-Project)** | A comprehensive web-based project demonstrating modern layout techniques and responsive design. | `HTML` `CSS` |
-| **[Daily Calorie Tracker](https://github.com/Vicky0079/Daily_calorie_tracker)** | A utility script to track daily food intake and calculate remaining caloric goals. | `Python` |
-| **[Linux Shell Assignment](https://github.com/Vicky0079/linux_shell_assignment-)** | A collection of bash scripts automating file management and system tasks. | `Bash` `Linux` |
+| 📚 **[Library Inventory Manager](https://github.com/Vicky0079/library_inventory_manager)** | A Python-based system to manage book inventories, issue/return logs, and track availability. | `Python` `CLI` |
+| 📊 **[Gradebook Analyzer](https://github.com/Vicky0079/Gradebook_analyzer)** | A data processing tool that calculates class averages, highest scores, and generates grade reports. | `Python` `Data Structures` |
+| ❓ **[Quiz Questions App](https://github.com/Vicky0079/quizQuestions)** | An interactive JavaScript quiz application featuring score tracking and dynamic DOM manipulation. | `JavaScript` `HTML/CSS` |
+| 🎓 **[Capstone Project](https://github.com/Vicky0079/Capstone-Project)** | A comprehensive web-based project demonstrating modern layout techniques and responsive design. | `HTML` `CSS` |
+| 🍎 **[Daily Calorie Tracker](https://github.com/Vicky0079/Daily_calorie_tracker)** | A utility script to track daily food intake and calculate remaining caloric goals. | `Python` |
+| 🐧 **[Linux Shell Assignment](https://github.com/Vicky0079/linux_shell_assignment-)** | A collection of bash scripts automating file management and system tasks. | `Bash` `Linux` |
 
 <details>
   <summary><b>📂 View All Projects (Portfolio & More)</b></summary>
@@ -55,16 +58,32 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Trophies
 
 <div align="center">
-  <!-- Using the actively maintained successor (github-stats-extended) -->
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Vicky0079&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+</div>
+<br>
+<div align="center">
+  <!-- Stable Stats and Streaks -->
   <img src="https://github-stats-extended.vercel.app/api?username=Vicky0079&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vicky's GitHub Stats" height="165" />
-  <!-- Using the updated Demolab domain for streak stats -->
   <img src="https://streak-stats.demolab.com/?user=Vicky0079&theme=radical&hide_border=true" alt="Vicky's GitHub Streak" height="165" />
 </div>
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vicky0079&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+<!-- This requires a one-time GitHub Action setup (see instructions below) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicky0079/Vicky0079/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vicky0079/Vicky0079/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Vicky0079/Vicky0079/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
@@ -77,6 +96,9 @@
 ---
 
 <div align="center">
+  <!-- Dynamic Developer Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=Vicky0079&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <br><br>
   <i>⭐ Feel free to explore my repositories. Let's build something amazing!</i>
